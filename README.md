@@ -1,4 +1,5 @@
 # Projeto: Do Dado à Pontuação
+[Visualizar o projeto](https://atropelamento-a-zero.streamlit.app/)
 
 Um pequeno projeto sobre a transformação de ideias em estrutura lógica, com o objetivo de calcular a redução de velocidade de um motorista ao receber um alerta e traduzir isso em uma **"pontuação de salva-vidas"**.
 
@@ -92,3 +93,4 @@ Finalmente, unimos todos os cálculos para gerar a pontuação.
 ### Desafios do Projeto
 
 > "A qualidade dos dados de GPS, a latência na entrega dos alertas e, principalmente, validar a função que relaciona velocidade a risco. Seriam necessários dados históricos de acidentes para calibrar o modelo."
+[Visualizar o projeto](https://atropelamento-a-zero.streamlit.app/)
